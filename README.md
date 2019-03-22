@@ -38,4 +38,4 @@ Theory of generalization
 Prediction with calibrated confidence
 
 ### Note
-This repository mainly focuses on five homework assignments assigned during Winter 2019 quarter including theoretical mathematical problems and coding projects. **PLEASE strictly follow the Academic Integrity announced in UCSD**, but original problems and lecture notes will be available. Feel free to email me if you have any problems: liam951120@gmail.com.
+This repository mainly focuses on five homework assignments assigned during Winter 2019 quarter including theoretical mathematical problems and coding projects. **PLEASE strictly follow the Academic Integrity announced in UCSD**. Feel free to email me if you have any problems: liam951120@gmail.com.
